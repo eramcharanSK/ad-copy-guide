@@ -1,0 +1,354 @@
+{
+  "ad_copy_guide": {
+    "title": "Comprehensive Guide on Writing Ad Copy for Plumbing Google Ads",
+    "introduction": "Creating effective Google Ads for plumbing services involves crafting compelling headlines, descriptions, and callouts that attract clicks and convert visitors into customers. Below is a comprehensive guide with universal rules, copy-specific rules, technical details, styles, and examples based on best practices.",
+    "universal_rules": [
+      {
+        "title": "Clarity and Conciseness",
+        "details": "Always be clear and concise in your ad copy. Avoid jargon and complicated language."
+      },
+      {
+        "title": "Consistency",
+        "details": "Ensure consistency between the ad copy and the landing page. The promises made in the ad should be fulfilled on the landing page."
+      },
+      {
+        "title": "Professional Tone",
+        "details": "Maintain a professional and dependable tone throughout the ad copy. Avoid overly casual or promotional language."
+      },
+      {
+        "title": "Avoid Superlatives and Vague Claims",
+        "details": "Do not use terms like 'best,' 'top-rated,' or 'quality service.' Instead, use verifiable facts."
+      },
+      {
+        "title": "Regular Testing and Optimization",
+        "details": "Regularly A/B test different ad copy variations to see what performs best and optimize accordingly."
+      },
+      {
+        "title": "Avoid Exclamation Points and Excessive Punctuation",
+        "details": "Do not use exclamation points or excessive punctuation. Keep punctuation simple and professional."
+      }
+    ],
+    "headlines": {
+      "technical_details": {
+        "length": "Up to 30 characters per headline",
+        "quantity": "Minimum of 4, up to 15 headlines",
+        "style": "Title Case for major words, avoid superlatives, use specific benefits and keywords"
+      },
+      "universal_rules": [
+        {
+          "rule": "Be Specific and Direct",
+          "details": "Include the primary service or offer. Highlight unique selling points and quantifiable benefits."
+        },
+        {
+          "rule": "Use Title Case",
+          "details": "Capitalize major words to make the headline stand out."
+        },
+        {
+          "rule": "Avoid Superlatives",
+          "details": "Use verifiable facts instead of vague claims."
+        }
+      ],
+      "examples": {
+        "good": [
+          {
+            "text": "Licensed & Insured Plumbers",
+            "length": 26,
+            "reasoning": "This headline is specific and direct, highlighting a key benefit (licensed and insured) which builds trust. It adheres to the 30-character limit and uses Title Case."
+          },
+          {
+            "text": "Save $60 on Plumbing",
+            "length": 20,
+            "reasoning": "This headline offers a specific, quantifiable benefit (saving $60), making it attractive to potential customers. It is concise and follows the rules for character count and Title Case."
+          },
+          {
+            "text": "24/7 Emergency Plumbing",
+            "length": 22,
+            "reasoning": "This headline highlights availability, a critical selling point for emergency services. It is clear, concise, and adheres to the character limit."
+          },
+          {
+            "text": "Over 1000 5-Star Reviews",
+            "length": 23,
+            "reasoning": "This headline provides social proof by highlighting positive customer reviews, building trust and credibility. It is specific and within the character limit."
+          }
+        ],
+        "bad": [
+          {
+            "text": "Best Plumbing Service",
+            "length": 20,
+            "reasoning": "This headline uses a superlative ('best') without verifiable facts, making it vague and less credible. It does not adhere to the rule of avoiding superlatives."
+          },
+          {
+            "text": "Top-Rated Plumbers",
+            "length": 17,
+            "reasoning": "Similar to the first bad example, this headline uses a superlative ('top-rated') without specific details or verification, making it less effective."
+          },
+          {
+            "text": "Quality Plumbing Solutions",
+            "length": 26,
+            "reasoning": "This headline is vague and uses generic terms ('quality solutions') without providing specific benefits or unique selling points."
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "technical_details": {
+        "length": "Up to 90 characters per description",
+        "quantity": "Minimum of 2, up to 4 descriptions",
+        "style": "Sentence case, clear and concise language, include strong CTAs"
+      },
+      "universal_rules": [
+        {
+          "rule": "Highlight Key Benefits and Unique Selling Points",
+          "details": "Focus on what sets your service apart."
+        },
+        {
+          "rule": "Use Concise and Clear Language",
+          "details": "Avoid jargon and keep it simple."
+        },
+        {
+          "rule": "Include a Strong Call to Action (CTA)",
+          "details": "Encourage immediate action."
+        },
+        {
+          "rule": "Avoid Exclamation Points and Excessive Punctuation",
+          "details": "Keep punctuation professional and minimal."
+        }
+      ],
+      "examples": {
+        "good": [
+          {
+            "text": "Get fast, reliable plumbing services. Call now for a free estimate.",
+            "length": 66,
+            "reasoning": "This description highlights key benefits (fast, reliable) and includes a strong CTA ('Call now for a free estimate'), encouraging immediate action. It adheres to the character limit."
+          },
+          {
+            "text": "24/7 emergency service with no additional charges. Schedule today.",
+            "length": 66,
+            "reasoning": "This description emphasizes availability and transparency (no additional charges), with a clear CTA ('Schedule today'). It is concise and within the character limit."
+          },
+          {
+            "text": "Trusted by over 1000 customers. Satisfaction guaranteed.",
+            "length": 53,
+            "reasoning": "This description builds trust with social proof (trusted by over 1000 customers) and assures quality ('satisfaction guaranteed'). It is clear and concise."
+          },
+          {
+            "text": "No hidden fees, transparent pricing. Book your service now.",
+            "length": 57,
+            "reasoning": "This description emphasizes transparency and includes a strong CTA ('Book your service now'). It is clear and within the character limit."
+          }
+        ],
+        "bad": [
+          {
+            "text": "We offer comprehensive services for all your needs.",
+            "length": 47,
+            "reasoning": "This description is vague and lacks specific benefits or a strong CTA. It does not highlight what sets the service apart."
+          },
+          {
+            "text": "Reliable and efficient services for you.",
+            "length": 40,
+            "reasoning": "This description is generic and lacks specific details or benefits. It does not include a strong CTA."
+          },
+          {
+            "text": "Best in class plumbing solutions.",
+            "length": 30,
+            "reasoning": "This description uses a superlative ('best in class') without specific details or verification, making it less credible."
+          }
+        ]
+      }
+    },
+    "callouts": {
+      "technical_details": {
+        "length": "Up to 25 characters per callout (recommended: 12-15 characters)",
+        "quantity": "Up to 4 callouts",
+        "style": "Sentence case, avoid promotions and calls to action"
+      },
+      "universal_rules": [
+        {
+          "rule": "Be Specific and Concise",
+          "details": "Use clear and direct language."
+        },
+        {
+          "rule": "Highlight Unique Selling Points",
+          "details": "Emphasize special services, features, or certifications."
+        },
+        {
+          "rule": "Avoid Redundancy",
+          "details": "Ensure each callout provides unique information."
+        },
+        {
+          "rule": "Avoid Promotions and Calls to Action",
+          "details": "Do not include promotions or CTAs in callouts."
+        },
+        {
+          "rule": "Avoid Exclamation Points and Excessive Punctuation",
+          "details": "Keep punctuation professional and minimal."
+        }
+      ],
+      "examples": {
+        "good": [
+          {
+            "text": "24/7 Service",
+            "length": 11,
+            "reasoning": "This callout emphasizes availability, a critical aspect for plumbing services. It is clear, concise, and adheres to the character limit."
+          },
+          {
+            "text": "Licensed & Insured",
+            "length": 17,
+            "reasoning": "This callout highlights a key benefit (licensed and insured), building trust and credibility. It is specific and within the character limit."
+          },
+          {
+            "text": "Expert Technicians",
+            "length": 17,
+            "reasoning": "This callout emphasizes the quality of service provided by expert technicians, building trust. It is concise and follows the character limit."
+          },
+          {
+            "text": "Same Day Service",
+            "length": 15,
+            "reasoning": "This callout highlights a valuable benefit (same day service), appealing to customers needing immediate assistance. It is clear and adheres to the character limit."
+          }
+        ],
+        "bad": [
+          {
+            "text": "Top Quality Service",
+            "length": 18,
+            "reasoning": "This callout is vague and uses a superlative ('top quality') without specific details, making it less effective."
+          },
+          {
+            "text": "Affordable Prices",
+            "length": 17,
+            "reasoning": "This callout is generic and does not provide specific benefits or unique selling points."
+          },
+          {
+            "text": "Best in Class Service",
+            "length": 20,
+            "reasoning": "Similar to the previous bad examples, this callout uses a superlative ('best in class') without verifiable facts, making it less credible."
+          }
+        ]
+      }
+    },
+    "keyword_variations_and_styles": {
+      "keyword_insertion": [
+        {
+          "example": "Buy {KeyWord:Quality Plumbing Services}",
+          "length": 31,
+          "reasoning": "This example uses keyword insertion to dynamically tailor the ad to the user's search term, making it more relevant and likely to attract clicks. It adheres to the character limit."
+        }
+      ],
+      "trust_quality": [
+        {
+          "example": "Over 20 Years in Business",
+          "length": 23,
+          "reasoning": "This example builds trust by highlighting extensive experience. It is specific and within the character limit."
+        },
+        {
+          "example": "Established in 1902",
+          "length": 17,
+          "reasoning": "This example emphasizes long-standing business history, which builds credibility. It is concise and follows the character limit."
+        },
+        {
+          "example": "700+ 5-Star Reviews",
+          "length": 17,
+          "reasoning": "This example provides social proof by highlighting positive reviews, building trust and credibility. It is specific and within the character limit."
+        }
+      ],
+      "price_affordability": [
+        {
+          "example": "ACs Starting at $49/Month",
+          "length": 25,
+          "reasoning": "This example highlights competitive pricing, making the offer attractive to cost-conscious customers. It adheres to the character limit."
+        },
+        {
+          "example": "Save $50 on All Repairs",
+          "length": 23,
+          "reasoning": "This example offers a specific discount, providing a clear financial benefit. It is concise and within the character limit."
+        }
+      ],
+      "availability_accessibility": [
+        {
+          "example": "24/7 Service, Available 7 Days a Week",
+          "length": 35,
+          "reasoning": "This example highlights availability and convenience, important factors for customers needing immediate service. It adheres to the character limit."
+        },
+        {
+          "example": "Same Day/Next Day Service Available",
+          "length": 33,
+          "reasoning": "This example emphasizes quick service, appealing to customers needing fast assistance. It is clear and within the character limit."
+        }
+      ],
+      "call_to_action": [
+        {
+          "example": "Book Today",
+          "length": 10,
+          "reasoning": "This example provides a simple, clear CTA, encouraging immediate action. It is concise and effective."
+        },
+        {
+          "example": "Call Now",
+          "length": 8,
+          "reasoning": "This example is direct and encourages immediate contact, which is effective for urgent services. It adheres to the character limit."
+        },
+        {
+          "example": "Schedule Online or by Phone",
+          "length": 28,
+          "reasoning": "This example provides multiple options for scheduling, making it convenient for customers. It is clear and within the character limit."
+        }
+      ],
+      "branding": [
+        {
+          "example": "Trust AC Experts for Your Cooling Needs",
+          "length": 34,
+          "reasoning": "This example uses the company name to build trust and brand recognition, making the ad more memorable. It adheres to the character limit."
+        },
+        {
+          "example": "Quality Service by CoolAir Solutions",
+          "length": 36,
+          "reasoning": "This example reinforces brand recognition by including the company name and emphasizing quality service. It is clear and within the character limit."
+        }
+      ]
+    },
+    "example_ad_group": {
+      "name": "General Plumbing Services",
+      "headlines": [
+        "Licensed & Insured Plumbers",
+        "Save $60 on Plumbing",
+        "24/7 Emergency Plumbing",
+        "Over 1000 5-Star Reviews",
+        "Same Day Plumbing Service",
+        "Trusted Local Plumbers",
+        "No Hidden Fees",
+        "Fast & Reliable Service",
+        "Plumbing Experts Near You",
+        "Affordable Plumbing",
+        "Professional Plumbers",
+        "Schedule Your Service",
+        "Experienced Plumbers",
+        "Quality Plumbing Services",
+        "Call Now for Immediate Help"
+      ],
+      "descriptions": [
+        "Get fast, reliable plumbing services. Call now for a free estimate.",
+        "24/7 emergency service with no additional charges. Schedule today.",
+        "Trusted by over 1000 customers. Satisfaction guaranteed.",
+        "No hidden fees, transparent pricing. Book your service now."
+      ],
+      "callouts": [
+        "24/7 Service",
+        "Licensed & Insured",
+        "Expert Technicians",
+        "Same Day Service"
+      ]
+    },
+    "sample_ad_copy": {
+      "headline_1": "Licensed & Insured Plumbers",
+      "headline_2": "Save $60 on Plumbing",
+      "headline_3": "24/7 Emergency Plumbing",
+      "description_1": "Get fast, reliable plumbing services. Call now for a free estimate.",
+      "description_2": "24/7 emergency service with no additional charges. Schedule today.",
+      "callouts": [
+        "24/7 Service",
+        "Licensed & Insured",
+        "Expert Technicians",
+        "Same Day Service"
+      ]
+    }
+  }
+}
