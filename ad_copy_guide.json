@@ -89,7 +89,7 @@
           }
         ]
       }
-    ],
+    },
     "descriptions": {
       "technical_details": {
         "length": "Up to 90 characters per description",
